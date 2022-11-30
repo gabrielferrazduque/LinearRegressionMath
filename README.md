@@ -54,9 +54,6 @@ The **Hypothesis Function** is the exact same function in the notation of Linear
 
 The two variables we can change – m and b – are represented as parameters theta1 and theta0
 
-In the beginning, we **randomly initialize** our parameters, which means we give theta1 and theta0 random values
-to begin with. This will output a random line, maybe something like this:
-![Randomly initialised parameters](https://github.com/sarvasvkulpati/LinearRegressionmath/blob/master/images/lr4.jpg)
 
 ### The Error Function
 Clearly the line drawn in the graph above is wrong. But how wrong is it? That's what the error function is for - it 
