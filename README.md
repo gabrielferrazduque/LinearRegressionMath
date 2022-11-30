@@ -15,11 +15,11 @@ git clone https://github.com/gabrielferrazduque/LinearRegressionmath
 `
 or download the ZIP file
 
-2. Go to the directory with the file: ``` cd LinearRegression ```
+2. Go to the directory with the file: ``` cd LinearRegressionmath ```
 
 3. Download the required packages: ``` pip install -r requirements.txt ```
 
-4. Run the project: ``` python3 LinearRegression.py ```
+4. Run the project: ``` python3 LinearRegressionmath.py ```
 
 
 ## How It Works
@@ -30,7 +30,7 @@ Linear regression is a method for approximating a linear relationship between tw
 complicated, all it really means is that it takes some input variable, like the age of a house, and finds out how 
 it's related to another variable, for example, the price it sells at. 
 
-![Linear data example](https://github.com/sarvasvkulpati/LinearRegressionmath/blob/master/images/lr1.jpg)
+![Linear data example](https://github.com/sarvasvkulpati/LinearRegression/blob/master/images/lr1.jpg)
 
 We use it when the data has a **linear relationship**, which means that when you plot the points on a graph, the
 data lies approximately in the shape of a straight line.
