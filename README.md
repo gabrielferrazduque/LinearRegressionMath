@@ -1,6 +1,6 @@
 # LinearRegressionMath
 LinearRegression
-# Linear Regression From Scratch
+# Linear RegressionMath From Scratch
 
 An implementation of Linear Regression from scratch in python 📈. Includes the hypothesis function, partial differentiation of variables, parameter update rule and gradient descent.
 
@@ -11,7 +11,7 @@ An implementation of Linear Regression from scratch in python 📈. Includes the
 
 1. Download the project on your computer.
 `
-git clone https://github.com/sarvasvkulpati/LinearRegression
+git clone https://github.com/gabrielferrazduque/LinearRegressionmath
 `
 or download the ZIP file
 
@@ -30,7 +30,7 @@ Linear regression is a method for approximating a linear relationship between tw
 complicated, all it really means is that it takes some input variable, like the age of a house, and finds out how 
 it's related to another variable, for example, the price it sells at. 
 
-![Linear data example](https://github.com/sarvasvkulpati/LinearRegression/blob/master/images/lr1.jpg)
+![Linear data example](https://github.com/sarvasvkulpati/LinearRegressionmath/blob/master/images/lr1.jpg)
 
 We use it when the data has a **linear relationship**, which means that when you plot the points on a graph, the
 data lies approximately in the shape of a straight line.
@@ -56,7 +56,7 @@ The two variables we can change – m and b – are represented as parameters th
 
 In the beginning, we **randomly initialize** our parameters, which means we give theta1 and theta0 random values
 to begin with. This will output a random line, maybe something like this:
-![Randomly initialised parameters](https://github.com/sarvasvkulpati/LinearRegression/blob/master/images/lr4.jpg)
+![Randomly initialised parameters](https://github.com/sarvasvkulpati/LinearRegressionmath/blob/master/images/lr4.jpg)
 
 ### The Error Function
 Clearly the line drawn in the graph above is wrong. But how wrong is it? That's what the error function is for - it 
